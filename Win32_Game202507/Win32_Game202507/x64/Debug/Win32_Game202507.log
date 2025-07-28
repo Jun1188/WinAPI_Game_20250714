@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\User\Documents\GitHub\WinAPI_Game_20250714\Win32_Game202507\main.cpp(36,16): warning C4244: 'return': 'WPARAM'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Documents\GitHub\WinAPI_Game_20250714\Win32_Game202507\main.cpp(11,8): warning C4101: 'hMymenu' :참조되지 않은 지역 변수입니다.
+C:\Users\User\Documents\GitHub\WinAPI_Game_20250714\Win32_Game202507\main.cpp(41,17): warning C4101: 'oldBrush' :참조되지 않은 지역 변수입니다.
+C:\Users\User\Documents\GitHub\WinAPI_Game_20250714\Win32_Game202507\main.cpp(42,14): warning C4101: 'ps' :참조되지 않은 지역 변수입니다.
+C:\Users\User\Documents\GitHub\WinAPI_Game_20250714\Win32_Game202507\main.cpp(41,9): warning C4101: 'hBrush' :참조되지 않은 지역 변수입니다.
+C:\Users\User\Documents\GitHub\WinAPI_Game_20250714\Win32_Game202507\main.cpp(40,6): warning C4101: 'hDC' :참조되지 않은 지역 변수입니다.
+C:\Users\User\Documents\GitHub\WinAPI_Game_20250714\Win32_Game202507\main.cpp(40,16): warning C4101: 'hMemDC' :참조되지 않은 지역 변수입니다.
+C:\Users\User\Documents\GitHub\WinAPI_Game_20250714\Win32_Game202507\main.cpp(40,11): warning C4101: 'mDC' :참조되지 않은 지역 변수입니다.
+C:\Users\User\Documents\GitHub\WinAPI_Game_20250714\Win32_Game202507\main.cpp(73,2): warning C4060: switch문에 'case' 또는 'default' 레이블이 없습니다.
+  Win32_Game202507.vcxproj -> C:\Users\User\Documents\GitHub\WinAPI_Game_20250714\Win32_Game202507\x64\Debug\Win32_Game202507.exe
