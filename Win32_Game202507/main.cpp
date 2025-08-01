@@ -40,6 +40,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT iMessage, WPARAM wParam, LPARAM lParam)
 	HDC hDC, mDC, hMemDC;
 	HBRUSH hBrush, oldBrush;
 	PAINTSTRUCT ps;
+
 	
 	switch (iMessage)
 	{

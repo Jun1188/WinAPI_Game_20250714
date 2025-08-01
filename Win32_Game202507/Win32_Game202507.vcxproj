@@ -127,7 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="GMC.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="RankingSceneClassMember.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GameManagerClassMember.h" />
+    <ClInclude Include="GameSceneClassMember.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
