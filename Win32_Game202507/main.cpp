@@ -1,4 +1,16 @@
 #include <windows.h>
+#include <objidl.h>
+#include <gdiplus.h>
+using namespace Gdiplus;
+#pragma comment (lib,"Gdiplus.lib")
+
+
+
+void OnPaint(HDC hdc) {
+
+
+
+}
 
 HINSTANCE g_hInst;
 LPCTSTR lpszClass = L"Window Class Name";

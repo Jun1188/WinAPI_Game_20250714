@@ -18,18 +18,33 @@
     <ClCompile Include="main.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="GMC.cpp">
+    <ClCompile Include="GMCM.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="RankingSceneClassMember.h">
+    <ClCompile Include="RankingSceneClass.h">
       <Filter>헤더 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="GSCM.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="RSCM.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SCM.cpp">
+      <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="GameManagerClassMember.h">
+    <ClInclude Include="GameManagerClass.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="GameSceneClassMember.h">
+    <ClInclude Include="GameSceneClass.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerClass.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneClass.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>

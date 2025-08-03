@@ -127,13 +127,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="GMC.cpp" />
+    <ClCompile Include="GMCM.cpp" />
+    <ClCompile Include="GSCM.cpp" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="RankingSceneClassMember.h" />
+    <ClCompile Include="RankingSceneClass.h" />
+    <ClCompile Include="RSCM.cpp" />
+    <ClCompile Include="SCM.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="GameManagerClassMember.h" />
-    <ClInclude Include="GameSceneClassMember.h" />
+    <ClInclude Include="GameManagerClass.h" />
+    <ClInclude Include="GameSceneClass.h" />
+    <ClInclude Include="PlayerClass.h" />
+    <ClInclude Include="SceneClass.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
