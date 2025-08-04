@@ -4,7 +4,7 @@
 
 class GameScene : public Scene {
 
-	void ShowPlayingScene();
+	
 
 };
 

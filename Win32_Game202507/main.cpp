@@ -1,6 +1,7 @@
 #include <windows.h>
 #include <objidl.h>
 #include <gdiplus.h>
+#include "PlayerClass.h"
 using namespace Gdiplus;
 #pragma comment (lib,"Gdiplus.lib")
 
@@ -61,14 +62,19 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT iMessage, WPARAM wParam, LPARAM lParam)
 		break;
 	case WM_PAINT: // 맵에 그릴 오브젝트(플레이어나 몬스터 같은)는 mDC에, 비트맵은 hMemDC에서 mDC로 그리기
 		
+
 		break;
 	case WM_CHAR:
-		
+
+
+		break;
 	case WM_MOUSEMOVE:
 		
+
 		break;
 	case WM_LBUTTONDOWN:
 		
+
 		break;
 	case WM_DESTROY:
 

@@ -4,9 +4,9 @@
 
 class Player {
 
-	static unsigned int score;
-	static unsigned int rank;
-	static std::string name;
+	 unsigned int score;
+	 unsigned int rank;
+	 std::string name;
 
 };
 

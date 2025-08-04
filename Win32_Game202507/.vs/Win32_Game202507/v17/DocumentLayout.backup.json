@@ -3,20 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\WinAPI_Game_20250714\\Win32_Game202507\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C85F1F76-FC7B-41F9-816C-0D6F89DFB194}|Win32_Game202507.vcxproj|C:\\Users\\User\\Documents\\GitHub\\WinAPI_Game_20250714\\Win32_Game202507\\GMC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C85F1F76-FC7B-41F9-816C-0D6F89DFB194}|Win32_Game202507.vcxproj|solutionrelative:GMC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C85F1F76-FC7B-41F9-816C-0D6F89DFB194}|Win32_Game202507.vcxproj|C:\\Users\\User\\Documents\\GitHub\\WinAPI_Game_20250714\\Win32_Game202507\\SCM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C85F1F76-FC7B-41F9-816C-0D6F89DFB194}|Win32_Game202507.vcxproj|solutionrelative:SCM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C85F1F76-FC7B-41F9-816C-0D6F89DFB194}|Win32_Game202507.vcxproj|C:\\Users\\User\\Documents\\GitHub\\WinAPI_Game_20250714\\Win32_Game202507\\GameManagerClassMember.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C85F1F76-FC7B-41F9-816C-0D6F89DFB194}|Win32_Game202507.vcxproj|solutionrelative:GameManagerClassMember.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C85F1F76-FC7B-41F9-816C-0D6F89DFB194}|Win32_Game202507.vcxproj|C:\\Users\\User\\Documents\\GitHub\\WinAPI_Game_20250714\\Win32_Game202507\\SceneClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C85F1F76-FC7B-41F9-816C-0D6F89DFB194}|Win32_Game202507.vcxproj|solutionrelative:SceneClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C85F1F76-FC7B-41F9-816C-0D6F89DFB194}|Win32_Game202507.vcxproj|C:\\Users\\User\\Documents\\GitHub\\WinAPI_Game_20250714\\Win32_Game202507\\GameSceneClassMember.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C85F1F76-FC7B-41F9-816C-0D6F89DFB194}|Win32_Game202507.vcxproj|solutionrelative:GameSceneClassMember.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C85F1F76-FC7B-41F9-816C-0D6F89DFB194}|Win32_Game202507.vcxproj|C:\\Users\\User\\Documents\\GitHub\\WinAPI_Game_20250714\\Win32_Game202507\\RSCM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C85F1F76-FC7B-41F9-816C-0D6F89DFB194}|Win32_Game202507.vcxproj|solutionrelative:RSCM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C85F1F76-FC7B-41F9-816C-0D6F89DFB194}|Win32_Game202507.vcxproj|C:\\Users\\User\\Documents\\GitHub\\WinAPI_Game_20250714\\Win32_Game202507\\RankingSceneClassMember.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C85F1F76-FC7B-41F9-816C-0D6F89DFB194}|Win32_Game202507.vcxproj|solutionrelative:RankingSceneClassMember.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C85F1F76-FC7B-41F9-816C-0D6F89DFB194}|Win32_Game202507.vcxproj|C:\\Users\\User\\Documents\\GitHub\\WinAPI_Game_20250714\\Win32_Game202507\\GSCM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C85F1F76-FC7B-41F9-816C-0D6F89DFB194}|Win32_Game202507.vcxproj|solutionrelative:GSCM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C85F1F76-FC7B-41F9-816C-0D6F89DFB194}|Win32_Game202507.vcxproj|C:\\Users\\User\\Documents\\GitHub\\WinAPI_Game_20250714\\Win32_Game202507\\PlayerClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C85F1F76-FC7B-41F9-816C-0D6F89DFB194}|Win32_Game202507.vcxproj|solutionrelative:PlayerClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C85F1F76-FC7B-41F9-816C-0D6F89DFB194}|Win32_Game202507.vcxproj|C:\\Users\\User\\Documents\\GitHub\\WinAPI_Game_20250714\\Win32_Game202507\\RankingSceneClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C85F1F76-FC7B-41F9-816C-0D6F89DFB194}|Win32_Game202507.vcxproj|solutionrelative:RankingSceneClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C85F1F76-FC7B-41F9-816C-0D6F89DFB194}|Win32_Game202507.vcxproj|C:\\Users\\User\\Documents\\GitHub\\WinAPI_Game_20250714\\Win32_Game202507\\GameSceneClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C85F1F76-FC7B-41F9-816C-0D6F89DFB194}|Win32_Game202507.vcxproj|solutionrelative:GameSceneClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C85F1F76-FC7B-41F9-816C-0D6F89DFB194}|Win32_Game202507.vcxproj|C:\\Users\\User\\Documents\\GitHub\\WinAPI_Game_20250714\\Win32_Game202507\\GMCM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C85F1F76-FC7B-41F9-816C-0D6F89DFB194}|Win32_Game202507.vcxproj|solutionrelative:GMCM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C85F1F76-FC7B-41F9-816C-0D6F89DFB194}|Win32_Game202507.vcxproj|C:\\Users\\User\\Documents\\GitHub\\WinAPI_Game_20250714\\Win32_Game202507\\GameManagerClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C85F1F76-FC7B-41F9-816C-0D6F89DFB194}|Win32_Game202507.vcxproj|solutionrelative:GameManagerClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C85F1F76-FC7B-41F9-816C-0D6F89DFB194}|Win32_Game202507.vcxproj|C:\\Users\\User\\Documents\\GitHub\\WinAPI_Game_20250714\\Win32_Game202507\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -30,29 +50,94 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RankingSceneClassMember.h",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\WinAPI_Game_20250714\\Win32_Game202507\\RankingSceneClassMember.h",
-              "RelativeDocumentMoniker": "RankingSceneClassMember.h",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\WinAPI_Game_20250714\\Win32_Game202507\\RankingSceneClassMember.h",
-              "RelativeToolTip": "RankingSceneClassMember.h",
+              "DocumentIndex": 0,
+              "Title": "SCM.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\WinAPI_Game_20250714\\Win32_Game202507\\SCM.cpp",
+              "RelativeDocumentMoniker": "SCM.cpp",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\WinAPI_Game_20250714\\Win32_Game202507\\SCM.cpp",
+              "RelativeToolTip": "SCM.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-03T07:56:23.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SceneClass.h",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\WinAPI_Game_20250714\\Win32_Game202507\\SceneClass.h",
+              "RelativeDocumentMoniker": "SceneClass.h",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\WinAPI_Game_20250714\\Win32_Game202507\\SceneClass.h",
+              "RelativeToolTip": "SceneClass.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-03T07:55:48.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RSCM.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\WinAPI_Game_20250714\\Win32_Game202507\\RSCM.cpp",
+              "RelativeDocumentMoniker": "RSCM.cpp",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\WinAPI_Game_20250714\\Win32_Game202507\\RSCM.cpp",
+              "RelativeToolTip": "RSCM.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-03T07:16:50.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GSCM.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\WinAPI_Game_20250714\\Win32_Game202507\\GSCM.cpp",
+              "RelativeDocumentMoniker": "GSCM.cpp",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\WinAPI_Game_20250714\\Win32_Game202507\\GSCM.cpp",
+              "RelativeToolTip": "GSCM.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-03T07:15:52.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerClass.h",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\WinAPI_Game_20250714\\Win32_Game202507\\PlayerClass.h",
+              "RelativeDocumentMoniker": "PlayerClass.h",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\WinAPI_Game_20250714\\Win32_Game202507\\PlayerClass.h",
+              "RelativeToolTip": "PlayerClass.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-03T07:13:39.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RankingSceneClass.h",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\WinAPI_Game_20250714\\Win32_Game202507\\RankingSceneClass.h",
+              "RelativeDocumentMoniker": "RankingSceneClass.h",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\WinAPI_Game_20250714\\Win32_Game202507\\RankingSceneClass.h",
+              "RelativeToolTip": "RankingSceneClass.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-08-01T10:47:51.816Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GameSceneClassMember.h",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\WinAPI_Game_20250714\\Win32_Game202507\\GameSceneClassMember.h",
-              "RelativeDocumentMoniker": "GameSceneClassMember.h",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\WinAPI_Game_20250714\\Win32_Game202507\\GameSceneClassMember.h",
-              "RelativeToolTip": "GameSceneClassMember.h",
+              "DocumentIndex": 6,
+              "Title": "GameSceneClass.h",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\WinAPI_Game_20250714\\Win32_Game202507\\GameSceneClass.h",
+              "RelativeDocumentMoniker": "GameSceneClass.h",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\WinAPI_Game_20250714\\Win32_Game202507\\GameSceneClass.h",
+              "RelativeToolTip": "GameSceneClass.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-08-01T10:46:41.174Z",
@@ -60,39 +145,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GMC.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\WinAPI_Game_20250714\\Win32_Game202507\\GMC.cpp",
-              "RelativeDocumentMoniker": "GMC.cpp",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\WinAPI_Game_20250714\\Win32_Game202507\\GMC.cpp",
-              "RelativeToolTip": "GMC.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "GMCM.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\WinAPI_Game_20250714\\Win32_Game202507\\GMCM.cpp",
+              "RelativeDocumentMoniker": "GMCM.cpp",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\WinAPI_Game_20250714\\Win32_Game202507\\GMCM.cpp",
+              "RelativeToolTip": "GMCM.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-01T10:39:19.591Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GameManagerClassMember.h",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\WinAPI_Game_20250714\\Win32_Game202507\\GameManagerClassMember.h",
-              "RelativeDocumentMoniker": "GameManagerClassMember.h",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\WinAPI_Game_20250714\\Win32_Game202507\\GameManagerClassMember.h",
-              "RelativeToolTip": "GameManagerClassMember.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "GameManagerClass.h",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\WinAPI_Game_20250714\\Win32_Game202507\\GameManagerClass.h",
+              "RelativeDocumentMoniker": "GameManagerClass.h",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\WinAPI_Game_20250714\\Win32_Game202507\\GameManagerClass.h",
+              "RelativeToolTip": "GameManagerClass.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-08-01T10:35:17.347Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\WinAPI_Game_20250714\\Win32_Game202507\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\WinAPI_Game_20250714\\Win32_Game202507\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAACYAAAAAAAAAAAAgwDoAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-21T09:41:24.562Z",
               "EditorCaption": ""
